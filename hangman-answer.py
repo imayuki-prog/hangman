@@ -1,5 +1,8 @@
 #Step 5
 
+# comment for demonstration purposes
+
+
 import random
 from hangman_art import stages 
 from hangman_art import logo
